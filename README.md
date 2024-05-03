@@ -4,6 +4,8 @@
 This code demonstrates fault injection analysis (FIA) attacks and countermeasures on Module Lattice Digital Signature Algorithm 
 (ML-DSA). ML-DSA is based on [Dilithium](https://pq-crystals.org/dilithium/).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intel/ml-dsa-fia-demo/HEAD)
+
 ## Environment
 
 ### Local Environment
