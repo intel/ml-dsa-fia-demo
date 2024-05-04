@@ -2,4 +2,4 @@ numpy==1.26.4
 PuLP==2.8.0
 pycryptodome==3.19.1
 termcolor==2.4.0
-tqdm==4.66.2
+tqdm==4.66.3
